@@ -1,4 +1,4 @@
-# AntiOS
+# HWID BYPASS
 
 Change Windows and hardware identifiers so that change system fingerprint.
 
@@ -40,3 +40,5 @@ List of changed identificators:
 * VolumeID
 * MACadress
 * HardwareGUID
+
+## - File provided by Machy
